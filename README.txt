@@ -1,0 +1,1 @@
+Main game assets scripts can be found in Assets -> Shooter Game
