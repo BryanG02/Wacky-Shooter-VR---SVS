@@ -1,0 +1,5 @@
+D:/Uni/SVS Shooter Game - Copy/.utmp/RelWithDebInfo/64405m52/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Uni/SVS Shooter Game - Copy/.utmp/RelWithDebInfo/64405m52/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Uni/SVS Shooter Game - Copy/.utmp/RelWithDebInfo/64405m52/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Uni/SVS Shooter Game - Copy/.utmp/RelWithDebInfo/64405m52/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Uni/SVS Shooter Game - Copy/.utmp/RelWithDebInfo/64405m52/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
